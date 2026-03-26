@@ -1,0 +1,7 @@
+{
+  "name": "codewith-garv",
+  "description": "An interactive, step-by-step programming learning platform powered by Gemini AI, featuring personalized tutorials, coding challenges, and a real-time AI tutor.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
