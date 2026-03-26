@@ -1,20 +1,27 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🚀 codewith-garv
 
-# Run and deploy your AI Studio app
+Your AI-Powered Personal Programming Tutor. Stop guessing what to learn next—get a personalized, step-by-step roadmap tailored to your goals.
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/drive/1VRvix19oCxG-xxnPotCxdkmUIhEaa3pn
+## ✨ Features
 
-## Run Locally
+*   **🧠 AI-Powered Roadmaps:** Generate custom learning paths for any programming topic.
+*   **🛠️ Interactive Challenges:** Practice what you learn with built-in mini-challenges.
+*   **🤖 Real-time AI Tutor:** Get instant help and guidance while you learn.
+*   **📚 Curated Courses:** Access expert-curated paths for JavaScript, Python, React, and more.
 
-**Prerequisites:**  Node.js
+## 🛠️ Tech Stack
 
+Built with modern web technologies:
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+*   **Frontend:** React 19, TypeScript, Tailwind CSS
+*   **AI Engine:** Google Gemini API (`@google/genai`)
+*   **Build Tool:** Vite
+
+## 🚀 Getting Started
+
+1. **Clone the repository.**
+2. **Install dependencies:**
+   ```bash
+   npm install
